@@ -7,3 +7,5 @@ Durant la réalisation de la visualisation, j'ai notamment eu des problèmes lor
 Il y a eu beaucoup de fois aussi où lorsque je souhaitais débuger, la console ne me renvoyait des champs vides, il semblerait que ce soit un comportement induit par les objets.
 
 N'ayant pas réellement d'indication sur les visualisations les plus intéressantes, j'ai cherché les valeurs les plus divergeantes à chacun des problèmes. J'ai ainsi choisi de démontrer les différents status de résolutions des problèmes, les familles de solver, ainsi que le nombre de problèmes résolus par solver et leur vitesse moyenne d'éxécution.
+
+![Capture d'écran des graphiques liés à la résolution de problèmes](screenshot.png)
